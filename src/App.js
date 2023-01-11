@@ -7,15 +7,16 @@ function App() {
       <header className="App-header">
         <h1>Weather Search Engine</h1>
         <Search />
+        <br />
+        <a
+          href="https://github.com/lalaanndee/weather-react"
+          target="_blank"
+          rel="noreferrer"
+        >
+          Open-source code
+        </a>{" "}
+        by Lanissa Davis
       </header>
-      <a
-        href="https://github.com/lalaanndee/weather-react"
-        target="_blank"
-        rel="noreferrer"
-      >
-        Open-source code
-      </a>{" "}
-      by Lanissa Davis
     </div>
   );
 }
