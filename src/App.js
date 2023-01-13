@@ -1,15 +1,14 @@
 import "./App.css";
-import Search from "./Search";
+import Weather from "./Weather";
 
 function App() {
   return (
     <div className="App">
-      <header className="App-header">
-        <div className="container">
-          <h1>Weather Search Engine</h1>
-          <Search />
-        </div>
-        <br />
+      <div className="container">
+        <Weather />
+      </div>
+      <br />
+      <footer>
         <a
           href="https://github.com/lalaanndee/weather-react"
           target="_blank"
@@ -18,7 +17,7 @@ function App() {
           Open-source code
         </a>{" "}
         by Lanissa Davis
-      </header>
+      </footer>
     </div>
   );
 }
