@@ -5,8 +5,10 @@ function App() {
   return (
     <div className="App">
       <header className="App-header">
-        <h1>Weather Search Engine</h1>
-        <Search />
+        <div className="container">
+          <h1>Weather Search Engine</h1>
+          <Search />
+        </div>
         <br />
         <a
           href="https://github.com/lalaanndee/weather-react"
