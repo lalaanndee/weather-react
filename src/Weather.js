@@ -20,13 +20,15 @@ export default function Weather() {
         <div className="col-6">
           <ul>
             <li>Thursday 21:35</li>
-            <li>Sunny</li>
+            <li>
+              Sunny
+              <img
+                src="https://www.freeiconspng.com/thumbs/weather-icon-png/weather-icon-png-22.png"
+                alt="Sunny"
+              />
+            </li>
+            <li>10°C</li>
           </ul>
-          <img
-            src="https://www.freeiconspng.com/thumbs/weather-icon-png/weather-icon-png-22.png"
-            alt="Sunny"
-          />
-          10°C
         </div>
         <div className="col-6">
           <ul>

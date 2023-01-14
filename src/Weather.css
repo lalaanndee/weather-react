@@ -5,10 +5,10 @@
   margin: 0% auto;
   margin-top: 50px;
 }
-ul {
+.Weather ul {
   list-style: none;
+  text-align: left;
 }
-img {
-  width: 40px;
-  margin-top: 0px;
+.Weather img {
+  width: 30px;
 }
