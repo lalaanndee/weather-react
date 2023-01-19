@@ -20,3 +20,6 @@
 .WeatherInfo li {
   text-align: center;
 }
+.WeatherInfo h1 {
+  color: lightskyblue;
+}
