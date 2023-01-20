@@ -1,9 +1,11 @@
 .Weather {
   border: solid 2px lightblue;
+  border-radius: 10px;
   padding: 20px;
   max-width: 500px;
   margin: 0% auto;
   margin-top: 50px;
+  padding-bottom: 50px;
 }
 .Weather ul {
   list-style: none;
@@ -22,4 +24,12 @@
 }
 .WeatherInfo h1 {
   color: lightskyblue;
+  font-family: "Kaushan Script", cursive;
+}
+.WeatherForecast-temperature-maximum {
+  font-weight: bold;
+  margin-right: 5px;
+}
+.WeatherForecast {
+  margin-top: 10px;
 }
