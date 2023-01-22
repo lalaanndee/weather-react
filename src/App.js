@@ -9,14 +9,22 @@ function App() {
       </div>
       <br />
       <footer>
+        This project is coded by Lanissa Davis,{" "}
         <a
           href="https://github.com/lalaanndee/weather-react"
           target="_blank"
           rel="noreferrer"
         >
-          Open-source code
+          open sourced on Github,
         </a>{" "}
-        by Lanissa Davis
+        {""}
+        <a
+          href="https://app.netlify.com/sites/phenomenal-tarsier-3b828d"
+          target="_blank"
+          rel="noreferrer"
+        >
+          hosted on Netlify
+        </a>
       </footer>
     </div>
   );
