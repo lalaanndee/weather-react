@@ -5,7 +5,6 @@
   max-width: 500px;
   margin: 0% auto;
   margin-top: 50px;
-  padding-bottom: 50px;
 }
 .Weather ul {
   list-style: none;
@@ -13,23 +12,8 @@
   padding: 0;
   margin: 0;
 }
-.WeatherInfo img {
-  width: 70px;
-}
-.WeatherInfo h2 {
-  font-size: 15px;
-}
-.WeatherInfo li {
-  text-align: center;
-}
-.WeatherInfo h1 {
-  color: lightskyblue;
-  font-family: "Kaushan Script", cursive;
-}
-.WeatherForecast-temperature-maximum {
-  font-weight: bold;
-  margin-right: 5px;
-}
-.WeatherForecast {
-  margin-top: 10px;
+
+.temperature {
+  font-size: 50px;
+  color: green;
 }

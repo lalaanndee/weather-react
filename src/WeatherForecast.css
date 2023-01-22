@@ -1,0 +1,7 @@
+.WeatherForecast {
+  margin-top: 20px;
+}
+.WeatherForecast-temperature-maximum {
+  font-weight: bold;
+  margin-right: 5px;
+}

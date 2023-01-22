@@ -1,0 +1,19 @@
+.date {
+  margin-top: 25px;
+  font-weight: bold;
+  color: orange;
+}
+.WeatherInfo img {
+  width: 70px;
+}
+.WeatherInfo h2 {
+  font-size: 15px;
+}
+.WeatherInfo li {
+  text-align: center;
+}
+.WeatherInfo h1 {
+  color: lightskyblue;
+  font-family: "Kaushan Script", cursive;
+  padding-top: 5px;
+}
